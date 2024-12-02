@@ -74,5 +74,4 @@ int main()
 {
     Q1(fname);
     Q2(fname);
-    
 }
